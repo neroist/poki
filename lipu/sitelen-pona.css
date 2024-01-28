@@ -1,0 +1,15 @@
+:root {
+    --font-primary: 'gg sans', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif,
+      "sitelen seli kiwen mono juniko", "linja-nanpa", "Fairfax HD", "insa pi supa lape";
+
+    --font-display: 'gg sans', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif,
+      "sitelen seli kiwen mono juniko", "linja-nanpa", "Fairfax HD", "insa pi supa lape";
+
+    --font-headline: 'ABC Ginto Nord', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif,
+      "sitelen seli kiwen mono juniko", "linja-nanpa", "Fairfax HD", "insa pi supa lape";
+
+    --font-code: Consolas, 'Andale Mono WT', 'Andale Mono', 'Lucida Console', 'Lucida Sans Typewriter', 'DejaVu Sans Mono',
+      'Bitstream Vera Sans Mono', 'Liberation Mono', 'Nimbus Mono L', Monaco, 'Courier New', Courier, monospace,
+
+      "sitelen seli kiwen mono juniko", "linja-nanpa", "Fairfax HD", "insa pi supa lape";
+}
